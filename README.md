@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This project is based of Steph Grider tutorial
+
+It is to be used a reference since it's a good base for future projects.
+It includes redux, router, authentication, forms with redux, portals
+
 ## Available Scripts
 
 In the project directory, you can run:
